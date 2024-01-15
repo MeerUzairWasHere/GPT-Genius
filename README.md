@@ -1,6 +1,6 @@
 #GPT-Genius
 
-- Had to stop the project due to pricing op OpenAI
+- Had to stop this project due to pricing of OpenAI
 
 ---
 
