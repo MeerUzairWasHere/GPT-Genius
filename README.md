@@ -1,4 +1,4 @@
-#GPT-Genius
+# GPT-Genius
 
 - Had to stop this project due to pricing of OpenAI
 
